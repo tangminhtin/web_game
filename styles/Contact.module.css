@@ -1,0 +1,26 @@
+.contact {
+  background-color: #555555;
+  color: #999999;
+  padding: 50px 0 50px 0;
+}
+.contact i {
+  font-size: 50px;
+  margin: 10px;
+}
+
+.card {
+  margin-top: 30px;
+  color: #fff;
+  width: 180px;
+  height: 50px;
+  line-height: 52px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 30px;
+  display: inline-block;
+  background: url(https://cdn.vn.garenanow.com/web/lol-product/LOLwebsite/img/footer/playForFree.png)
+    no-repeat;
+  background-size: contain;
+  vertical-align: middle;
+  text-align: center;
+}

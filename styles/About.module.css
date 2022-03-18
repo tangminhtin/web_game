@@ -1,0 +1,13 @@
+.about {
+  padding: 1.5rem 5rem;
+}
+
+.title {
+  border-bottom: 5px solid #361500;
+  padding-bottom: 10px;
+  margin: 30px;
+}
+
+.about p {
+  text-align: justify;
+}
