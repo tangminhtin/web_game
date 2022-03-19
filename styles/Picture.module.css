@@ -9,4 +9,5 @@
   height: 300px;
   border-radius: 10%;
   margin: 20px 5px;
+  object-fit: contain;
 }

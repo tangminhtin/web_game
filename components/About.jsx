@@ -7,89 +7,75 @@ const About = () => {
       <div className="d-flex justify-content-center">
         <h1 className={styles.title}>Giới thiệu</h1>
       </div>
-      <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint ut
-        molestias natus vero, quidem qui architecto iure debitis, labore numquam
-        nulla in illo? Unde quasi quaerat, tempore illo architecto doloremque
-        aperiam pariatur aliquam iure rem maxime ipsa animi similique
-        dignissimos earum quis inventore soluta doloribus, atque fugit optio
-        itaque aut? Voluptatum perspiciatis molestiae neque error esse quae
-        culpa voluptatibus enim quod soluta, quaerat, nisi doloremque officia
-        tenetur incidunt. Quisquam tempore suscipit quidem iure non corrupti
-        ducimus quia, ratione iusto sunt, beatae officia temporibus minima dicta
-        magnam, consectetur ea recusandae? Voluptatum pariatur debitis eos,
-        impedit, odit iusto odio veniam saepe neque dolorum reprehenderit. Iure,
-        neque. Consequuntur, labore atque dicta repellendus vero dolorem aut
-        porro iusto eos voluptas! Voluptas ratione eveniet non laborum
-        necessitatibus dignissimos? Eveniet dignissimos officiis laborum impedit
-        autem voluptates laudantium dolorem, iusto nobis architecto eius
-        perferendis, magni optio labore? Nulla iure doloribus odio illo sit
-        reprehenderit repellendus laborum atque optio nesciunt, ea corrupti
-        ipsum, unde aperiam accusamus fugiat laboriosam ab. Saepe reprehenderit
-        minima in provident maiores voluptate culpa dolore? Obcaecati
-        blanditiis, adipisci error laborum iusto accusamus dolor tempora qui,
-        quidem animi sunt quam voluptatum at quos vel mollitia expedita.
-        Laborum, a nostrum voluptates soluta quod nemo, necessitatibus iste
-        eveniet sint nihil quia delectus reprehenderit consequuntur, doloribus
-        magnam? Temporibus animi magnam eveniet error incidunt quia omnis ad,
-        eaque eum natus sed repellendus nostrum ipsum quos explicabo, tenetur
-        assumenda dolore. Voluptatibus facere, sint sed deserunt asperiores,
-        ipsum quia cumque, earum provident autem doloremque dolor delectus!
-        Doloribus necessitatibus neque, commodi, ipsam a nesciunt velit ducimus
-        dolorum corrupti eveniet magni quo dolores quis voluptatem amet
-        reprehenderit ea consequatur optio aperiam voluptatibus in ad deserunt
-        esse doloremque. Consequatur, doloribus autem dignissimos distinctio
-        alias suscipit maiores expedita maxime optio, sint cumque aperiam
-        debitis architecto cupiditate neque, officia odit assumenda enim. Sint,
-        nemo rem at qui repellat aliquam repudiandae hic iusto, fugit minus
-        placeat, quisquam id itaque molestias? Eaque impedit laborum temporibus
-        at dolores distinctio reiciendis odit itaque debitis nulla maxime, unde
-        expedita ducimus nobis quasi quia minima molestias ratione! Delectus
-        adipisci vitae voluptatum eaque dicta tempora commodi, provident sint
-        ipsam? Officiis sed aliquid blanditiis quos maxime deserunt in
-        perspiciatis eveniet aperiam, atque provident consequuntur repellat
-        culpa similique nulla perferendis ex. Sint voluptas sed aut! Excepturi
-        praesentium hic eveniet, tempore provident neque eius repudiandae saepe
-        nulla beatae magni, ad qui, esse nemo velit eum aliquid aspernatur eos
-        consequatur dolore deserunt reiciendis recusandae commodi odio.
-        Quibusdam consequatur in harum placeat voluptates? Labore voluptatibus
-        neque repudiandae maiores unde a cum minima aliquid fuga dignissimos
-        inventore, tempore quis fugiat cupiditate ex iste consequatur distinctio
-        nostrum corrupti dolore, harum itaque! Quisquam ex dolore quas similique
-        ducimus dolorum magni odit quasi perferendis aut iste tenetur possimus
-        repellat praesentium dolores, ratione ea! Optio neque, inventore tempora
-        pariatur animi facere provident laborum qui ratione reiciendis ut
-        placeat eveniet sint perferendis exercitationem soluta hic excepturi non
-        commodi. At recusandae sunt quia quisquam delectus eveniet, cumque
-        quaerat corporis tempora maxime alias reiciendis tenetur excepturi hic
-        nulla repudiandae consequuntur iste dolorem quod non aliquam aspernatur
-        neque. Asperiores qui totam voluptatibus illum fugiat magni praesentium
-        quos dicta nemo facere at, veritatis odit incidunt laudantium sequi ex
-        est dolorum eveniet error inventore esse alias vel? A expedita quis
-        reiciendis asperiores blanditiis! Tempore adipisci, totam officiis
-        aspernatur consequatur laborum eos dolor! Aut quidem dolorem aliquid
-        voluptates dicta, facere molestias deleniti laboriosam voluptatibus
-        consequuntur deserunt atque quisquam, odio nemo asperiores! Culpa
-        perspiciatis, cum aliquid autem, veritatis sed molestiae, quasi iusto
-        reprehenderit repudiandae minus. Architecto sapiente molestias odio
-        nihil! Vitae enim architecto quaerat, praesentium, possimus facilis rem
-        cupiditate, distinctio error doloribus odit aspernatur. Vitae enim
-        dolorum recusandae reiciendis expedita nisi quia magnam in alias quae,
-        omnis, quidem veniam dignissimos distinctio corporis sapiente doloremque
-        rerum! Minus placeat cum vel quaerat consectetur iste obcaecati, aliquam
-        et sapiente odio delectus nostrum labore quas. Odit modi obcaecati quos
-        ea odio mollitia quam voluptate molestiae fugit aliquam recusandae
-        blanditiis, nesciunt nihil architecto sunt, sint necessitatibus natus,
-        dignissimos dolorum exercitationem dolor officia id. Fugit laborum quasi
-        eaque quibusdam sed reiciendis esse aspernatur provident omnis quaerat,
-        voluptatem alias exercitationem excepturi inventore quisquam! Magnam,
-        nesciunt ullam adipisci tenetur similique nihil, ad recusandae, corrupti
-        cumque quas magni nam libero repellendus inventore eaque est earum?
-        Similique nulla accusamus pariatur voluptatibus vitae? Porro quisquam
-        alias illo rerum numquam, aperiam eos libero eveniet doloribus optio ut
-        repellat necessitatibus possimus quis harum, soluta non voluptatibus
-        architecto debitis.
-      </p>
+      <section>
+        <h4>Lời nói đầu</h4>
+        <p>
+          Cách đây 10 năm, khi còn là một cậu bé trung học, tôi được sắm sửa
+          chiếc điện thoại đầu tiên để liên lạc, một chiếc Nokia chạy Java mà
+          hiện tại tôi không còn nhớ rõ mã máy. Tôi đã có những trải nghiệm
+          tuyệt vời với hàng chục tựa game nhập vai, chiến thuật, giải đố… trên
+          chiếc “dế yêu” của mình, hầu hết là game ngoại Việt hóa. Khi đó, tôi
+          đã mơ về một viễn cảnh xa xôi được chơi những tựa game do người Việt
+          làm, câu chuyện của người Việt viết, sử dụng tiếng Việt, nhạc của
+          người Việt,...
+        </p>
+        <p>
+          Tuy nhiên, việc làm game offline bán bản quyền ở Việt Nam không phải
+          chuyện đơn giản. Văn hóa crack, hack, cheat khiến các nhà làm game e
+          dè. Kết quả hàng chục triệu đô doanh thu từ công nghiệp game chảy từ
+          túi người Việt ra nước ngoài.
+        </p>
+        <p>
+          Tôi đã nung nấu ý định thực hiện 1 tựa game nhập vai thế giới mở từ
+          mấy năm trước, khi mới bước chân vào ngành IT. Tất nhiên tôi không
+          định và cũng không có khả năng làm người hùng cho cách mạng văn hóa
+          mua game ở Việt Nam, chỉ là 1 chút sở thích cá nhân và 1 cánh én cho
+          mùa xuân mà tôi đã đề cập.
+        </p>
+        <p>
+          Giờ đây, khi đã trang bị cho mình đủ kiến thức và kỹ năng, tôi đã bắt
+          tay vào thực hiện nó. Ngoài tôi, còn có 1 vài bạn đồng sáng lập khác.
+          Chúng tôi gọi mình là Viet Game Makers.
+        </p>
+      </section>
+      <section>
+        <h4>Vậy chúng tôi làm game gì?</h4>
+        <p>
+          Lillusion, sự kết hợp của lucid dream và illusion. Ý tưởng ban đầu
+          xuất phát từ tôi, người thường xuyên gặp Lucid dream. Bên cạnh đó, là
+          người làm khoa học, tôi luôn đề cao tính logic, vì thế tôi kết hợp
+          nhiều yếu tố khoa học giả tưởng về cơ thể con người để xây dựng nên
+          một câu chuyện có tính giải thích chặt chẽ mà vẫn đủ yếu tố kỳ ảo thú
+          vị.
+        </p>
+        <p>
+          Tóm lại Lillusion sẽ là một tựa game nhập vai, phiêu lưu với cốt
+          truyện phi tuyến. Hệ thống chiến đấu được xây dựng trên 2 loại: chặt,
+          đỡ, né và phản đòn ở hệ vật lý, kết ấn chú ở hệ phép. Ở hệ phép chúng
+          tôi cũng xây dựng nhiều tương tác thú vị từ hệ thống ngũ hành Á Đông.{" "}
+        </p>
+        <p>
+          Chúng tôi kỳ vọng sẽ mang tới trải nghiệm ở mức tốt ở cốt truyện và
+          gameplay. Đồ họa được sử dụng là 2D và âm thanh sẽ làm tốt nhất có thể
+          trong khả năng của chúng tôi.
+        </p>
+      </section>
+      <section>
+        <h4>Chúng tôi cần gì từ cộng đồng</h4>
+        <p>
+          Sự ủng hộ, nói chung. Mọi ủng hộ về mặt tinh thần đều được hoan
+          nghênh.
+        </p>
+        <p>
+          Về vật chất, chúng tôi đưa các lựa chọn và phần tri ân tương ứng cho
+          người ủng hộ.
+        </p>
+        <p>
+          Tất nhiên, dự án này không sống nhờ donate, tôi đã dự toán kinh phí
+          vừa đủ với hầu bao của mình. Mọi đóng góp thêm sẽ mở rộng quy mô của
+          game hơn.
+        </p>
+      </section>
     </div>
   );
 };

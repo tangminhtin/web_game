@@ -29,3 +29,22 @@ a {
   font-size: 20px;
   font-weight: 500;
 }
+/* Starting Nav bar */
+.custom-item{
+  text-align: center;
+}
+
+.custom-nav{
+  display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    /* height: 64px; */
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 10px 30px;
+    background: rgba(202, 202, 202, 0.857);
+    z-index: 10;
+}
+/* Ending Nav bar */
