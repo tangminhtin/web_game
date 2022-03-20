@@ -25,25 +25,11 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapsevcb">
               <div className={styles.text + " card card-body"}>
-                Bạn nhận lại: 1, 2, 5, 10 niềm vui vì đã ủng hộ một tựa game
+                Bạn nhận lại: <br/>
+                1, 2, 5, 10 niềm vui vì đã ủng hộ một tựa game
                 Việt
                 <div className="row text-center">
-                  <div className={"col-6"}>
-                    <img className={styles.image} src={"/10k.png"} />
-                    10.000
-                  </div>
-                  <div className={"col-6"}>
-                    <img className={styles.image} src={"/20k.png"} />
-                    20.000
-                  </div>
-                  <div className={"col-6"}>
-                    <img className={styles.image} src={"/50k.png"} />
-                    50.000
-                  </div>
-                  <div className={"col-6"}>
-                    <img className={styles.image} src={"/100k.png"} />
-                    100.000
-                  </div>
+                  
                 </div>
               </div>
             </div>
@@ -81,7 +67,7 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapsetcb">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 tảng đá, cái cây,... trong game
+                - Bạn được ghi tên lên 1 tảng đá, cái cây,... trong game
               </div>
             </div>
 
@@ -118,7 +104,8 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapsebidv">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây và 1 poster cảm ơn từ nhà sản xuất
+                - Bạn được ghi tên lên 1 cái cây <br/>
+                - Nhận 1 poster cảm ơn từ nhà sản xuất
               </div>
             </div>
 
@@ -155,8 +142,9 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapcaocap">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây. <br />
-                Nhận poster cảm ơn từ nhà sản xuất và 1 quyển artbook
+                - Bạn được ghi tên lên 1 cái cây. <br />
+                - Nhận poster cảm ơn từ nhà sản xuất <br/>
+                - Và 1 quyển artbook
               </div>
             </div>
             <b>2.000.000</b>
@@ -191,9 +179,10 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapvang">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây <br />
-                nhận poster cảm ơn từ nhà sản xuất <br />1 quyển artbook và quyền thiết kế 1
-                trang phục trong game
+                - Bạn được ghi tên lên 1 cái cây <br />
+                - Nhận poster cảm ơn từ nhà sản xuất <br />
+                - 1 quyển artbook <br/>
+                - Và quyền thiết kế 1 trang phục trong game
               </div>
             </div>
             <b>5.000.000</b>
@@ -228,9 +217,10 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapkimcuong">
               <div className={styles.text + " card card-body"}>
-                Ghi tên lên 1 cái cây <br />
-                Poster cảm ơn từ nsx <br />1 quyển artbook và quyền thiết kế 1
-                nhân vật trong game
+                - Bạn được ghi tên lên 1 cái cây <br />
+                - Nhận poster cảm ơn từ nsx <br />
+                - 1 quyển artbook <br/>
+                - Và quyền thiết kế 1 nhân vật trong game
               </div>
             </div>
             <b>10.000.000</b>
@@ -265,12 +255,12 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapvibranium">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây <br />
-                nhận poster cảm ơn từ nhà sản xuất <br />
-                1 quyển artbook
+                - Bạn được ghi tên lên 1 cái cây <br />
+                - Nhận poster cảm ơn từ nhà sản xuất <br />
+                - 1 quyển artbook
                 <br />
-                quyền thiết kế 1 nhân vật trong game và quyền thiết kế 1 mini
-                map trong game
+                - Quyền thiết kế 1 nhân vật trong game <br/>
+                - Và quyền thiết kế 1 mini map trong game
               </div>
             </div>
             <b>20.000.000</b>
@@ -305,11 +295,11 @@ const Sponsor = () => {
 
             <div className="collapse" id="collaptoithuong">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây <br />
-                nhận poster cảm ơn từ nsx <br />
-                1 quyển artbook <br />
-                quyền thiết kế 1 nhân vật trong game và quyền thiết kế 1 nhánh
-                truyện trong game
+                - Bạn được ghi tên lên 1 cái cây <br />
+                - Nhận poster cảm ơn từ nsx <br />
+                - 1 quyển artbook <br />
+                - Quyền thiết kế 1 nhân vật trong game <br/>
+                - Và quyền thiết kế 1 nhánh truyện trong game
               </div>
             </div>
             <b>50.000.000</b>
