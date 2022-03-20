@@ -7,7 +7,7 @@ const About = () => {
       <div className="d-flex justify-content-center">
         <h1 className={styles.title}>Giới thiệu</h1>
       </div>
-      <section>
+      <section className="mt-5">
         <h4>Lời nói đầu</h4>
         <p>
           Cách đây 10 năm, khi còn là một cậu bé trung học, tôi được sắm sửa
@@ -38,7 +38,7 @@ const About = () => {
           Chúng tôi gọi mình là Viet Game Makers.
         </p>
       </section>
-      <section>
+      <section className="mt-5">
         <h4>Vậy chúng tôi làm game gì?</h4>
         <p>
           Lillusion, sự kết hợp của lucid dream và illusion. Ý tưởng ban đầu
@@ -60,7 +60,7 @@ const About = () => {
           trong khả năng của chúng tôi.
         </p>
       </section>
-      <section>
+      <section className="mt-5">
         <h4>Chúng tôi cần gì từ cộng đồng</h4>
         <p>
           Sự ủng hộ, nói chung. Mọi ủng hộ về mặt tinh thần đều được hoan

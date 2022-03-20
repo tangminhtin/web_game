@@ -7,31 +7,22 @@ const Contact = () => {
       <div className="d-flex justify-content-center">
         <div className="text-center">
           <h1 className="text-white mt-3 mb-4">Liên hệ</h1>
-          <p>
-            Sản phẩm được hợp tác phát hành bởi Công ty TNHH Liên Minh Huyền
-            Thoại & Công ty Cổ phần Giải trí và Thể thao Điện tử Việt Nam.
-          </p>
-          <p>
-            Văn phòng đại diện: Tầng 29, tòa nhà Trung tâm Lotte Hà Nội, số 54
-            đường Liễu Giai, phường Cống Vị, quận Ba Đình, thành phố Hà Nội,
-            Việt Nam.
-          </p>
-          <p>Điện thoại: (04)7305-3939; Fax: (04)3759-2429</p>
-          <p>Email: youremail@gmail.com</p>
+          <p>Điện thoại: 0326919071 Mr Anh Đức</p>
+          <p>Email: loanhduc0102@gmail.com</p>
         </div>
       </div>
       <div className="d-flex justify-content-center">
-        <a href="#">
-          <i class="bi bi-facebook"></i>
+        <a href="https://www.facebook.com/LillusionTheory">
+          <i className="bi bi-facebook"></i>
         </a>
         <a href="#">
-          <i class="bi bi-twitter"></i>
+          <i className="bi bi-twitter"></i>
         </a>
         <a href="#">
-          <i class="bi bi-instagram"></i>
+          <i className="bi bi-instagram"></i>
         </a>
         <a href="#">
-          <i class="bi bi-youtube"></i>
+          <i className="bi bi-youtube"></i>
         </a>
       </div>
       <div className="d-flex justify-content-center">

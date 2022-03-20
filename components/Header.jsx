@@ -2,13 +2,13 @@ import React from "react";
 
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light custom-nav">
+    <nav className="navbar navbar-expand-lg navbar-light custom-nav py-0 py-1">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
           Lillusion Theory
         </a>
         <button
-          className="navbar-toggler"
+          className="navbar-toggler custom-navbutton btn"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarText"
@@ -16,7 +16,7 @@ const Header = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggler-icon"></span>
+          <span className="bi bi-chevron-bar-expand"></span>
         </button>
         <div className="collapse navbar-collapse custom-item" id="navbarText">
           <ul className="nav navbar-nav ms-auto w-100 justify-content-end">

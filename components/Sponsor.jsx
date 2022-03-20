@@ -144,7 +144,7 @@ const Sponsor = () => {
               className={styles.donateButton}
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsemb"
+              data-bs-target="#collapcaocap"
               aria-expanded="false"
             >
               <span>
@@ -153,7 +153,7 @@ const Sponsor = () => {
               </span>
             </button>
 
-            <div className="collapse" id="collapsemb">
+            <div className="collapse" id="collapcaocap">
               <div className={styles.text + " card card-body"}>
                 Ghi tên lên 1 cái cây. <br />
                 Poster cảm ơn từ nsx và 1 quyển artbook
@@ -180,7 +180,7 @@ const Sponsor = () => {
               className={styles.donateButton}
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsemb"
+              data-bs-target="#collapvang"
               aria-expanded="false"
             >
               <span>
@@ -189,7 +189,7 @@ const Sponsor = () => {
               </span>
             </button>
 
-            <div className="collapse" id="collapsemb">
+            <div className="collapse" id="collapvang">
               <div className={styles.text + " card card-body"}>
                 Ghi tên lên 1 cái cây <br />
                 Poster cảm ơn từ nsx <br />1 quyển artbook và quyền thiết kế 1
@@ -217,7 +217,7 @@ const Sponsor = () => {
               className={styles.donateButton}
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsemb"
+              data-bs-target="#collapkimcuong"
               aria-expanded="false"
             >
               <span>
@@ -226,7 +226,7 @@ const Sponsor = () => {
               </span>
             </button>
 
-            <div className="collapse" id="collapsemb">
+            <div className="collapse" id="collapkimcuong">
               <div className={styles.text + " card card-body"}>
                 Ghi tên lên 1 cái cây <br />
                 Poster cảm ơn từ nsx <br />1 quyển artbook và quyền thiết kế 1
@@ -254,7 +254,7 @@ const Sponsor = () => {
               className={styles.donateButton}
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsemb"
+              data-bs-target="#collapvibranium"
               aria-expanded="false"
             >
               <span>
@@ -263,7 +263,7 @@ const Sponsor = () => {
               </span>
             </button>
 
-            <div className="collapse" id="collapsemb">
+            <div className="collapse" id="collapvibranium">
               <div className={styles.text + " card card-body"}>
                 Ghi tên lên 1 cái cây <br />
                 Poster cảm ơn từ nsx <br />
@@ -294,7 +294,7 @@ const Sponsor = () => {
               className={styles.donateButton}
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsemb"
+              data-bs-target="#collaptoithuong"
               aria-expanded="false"
             >
               <span>
@@ -303,7 +303,7 @@ const Sponsor = () => {
               </span>
             </button>
 
-            <div className="collapse" id="collapsemb">
+            <div className="collapse" id="collaptoithuong">
               <div className={styles.text + " card card-body"}>
                 Ghi tên lên 1 cái cây <br />
                 Poster cảm ơn từ nsx <br />
@@ -334,7 +334,7 @@ const Sponsor = () => {
           id="staticBackdrop"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="staticBackdropLabel"
           aria-hidden="true"
         >
