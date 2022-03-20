@@ -60,7 +60,7 @@ const Sponsor = () => {
               aria-expanded="false"
             >
               <span>
-                Gói ủng hộ trung cấp
+                Gói ủng hộ sơ cấp
                 <i className="bi bi-caret-down-fill ps-2"></i>
               </span>
             </button>
