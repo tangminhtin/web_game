@@ -9,7 +9,7 @@ const SplashArt = () => {
         src="/banner_2.png"
         alt="Picture of the author"
         width={500}
-        height={220}
+        height={300}
         layout="responsive"
       />
     </div>

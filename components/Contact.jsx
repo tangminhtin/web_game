@@ -27,7 +27,7 @@ const Contact = () => {
       </div>
       <div className="d-flex justify-content-center">
         <a href="#" className={styles.card}>
-          Chơi miễn phí
+          Phát hành trên Steam
         </a>
         <img className={styles.card} src="card2.png" alt="" />
       </div>

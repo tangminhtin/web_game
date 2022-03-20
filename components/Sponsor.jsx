@@ -81,7 +81,7 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapsetcb">
               <div className={styles.text + " card card-body"}>
-                Được ghi tên lên 1 tảng đá, cái cây,... trong game
+                Bạn được ghi tên lên 1 tảng đá, cái cây,... trong game
               </div>
             </div>
 
@@ -118,7 +118,7 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapsebidv">
               <div className={styles.text + " card card-body"}>
-                Bạn được ghi tên lên 1 cái cây và 1 poster cảm ơn từ nsx
+                Bạn được ghi tên lên 1 cái cây và 1 poster cảm ơn từ nhà sản xuất
               </div>
             </div>
 
@@ -155,8 +155,8 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapcaocap">
               <div className={styles.text + " card card-body"}>
-                Ghi tên lên 1 cái cây. <br />
-                Poster cảm ơn từ nsx và 1 quyển artbook
+                Bạn được ghi tên lên 1 cái cây. <br />
+                Nhận poster cảm ơn từ nhà sản xuất và 1 quyển artbook
               </div>
             </div>
             <b>2.000.000</b>
@@ -191,8 +191,8 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapvang">
               <div className={styles.text + " card card-body"}>
-                Ghi tên lên 1 cái cây <br />
-                Poster cảm ơn từ nsx <br />1 quyển artbook và quyền thiết kế 1
+                Bạn được ghi tên lên 1 cái cây <br />
+                nhận poster cảm ơn từ nhà sản xuất <br />1 quyển artbook và quyền thiết kế 1
                 trang phục trong game
               </div>
             </div>
@@ -265,8 +265,8 @@ const Sponsor = () => {
 
             <div className="collapse" id="collapvibranium">
               <div className={styles.text + " card card-body"}>
-                Ghi tên lên 1 cái cây <br />
-                Poster cảm ơn từ nsx <br />
+                Bạn được ghi tên lên 1 cái cây <br />
+                nhận poster cảm ơn từ nhà sản xuất <br />
                 1 quyển artbook
                 <br />
                 quyền thiết kế 1 nhân vật trong game và quyền thiết kế 1 mini
@@ -305,8 +305,8 @@ const Sponsor = () => {
 
             <div className="collapse" id="collaptoithuong">
               <div className={styles.text + " card card-body"}>
-                Ghi tên lên 1 cái cây <br />
-                Poster cảm ơn từ nsx <br />
+                Bạn được ghi tên lên 1 cái cây <br />
+                nhận poster cảm ơn từ nsx <br />
                 1 quyển artbook <br />
                 quyền thiết kế 1 nhân vật trong game và quyền thiết kế 1 nhánh
                 truyện trong game
@@ -352,11 +352,15 @@ const Sponsor = () => {
                 ></button>
               </div>
               <div className="modal-body">
-                <b>Chuyển tiền với nội dung: IA + số điện thoại</b> <br />
-                <br />
-                Với các mốc ủng hộ cao hơn xin liên hệ: <br />
-                Mr.Anh Đức 0326919071 <br />
-                loanhduc0102@gmail.com
+                <b>Chuyển tiền với nội dung: IAdonate + số điện thoại</b> <br />
+                vào tài khoản MOMO hoặc tài khoản ngân hàng: <br/>
+                BIDV: 21510002869743 <br/>
+                Lo Anh Duc chi nhánh CAU GIAY<br/><br/>
+                Với các mốc ủng hộ lớn hơn 500.000 xin liên hệ: <br />
+                Mr.Anh Đức <br/>
+                0326919071 <br />
+                loanhduc0102@gmail.com <br/>
+                <b>trước khi chuyển tiền</b>
               </div>
               <div className="modal-footer">
                 <button
