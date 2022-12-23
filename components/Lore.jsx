@@ -66,21 +66,6 @@ const Lore = () => {
           của gia đình mình và khao khát xây dựng một xã hội công bằng, bình
           đẳng.
         </p>
-        <p className={styles.para}>
-          Chú thích: Vật chất tồn tại khách quan với cảm giác của con người. Tuy
-          nhiên con người cảm nhận thế giới vật chất thông qua các giác quan,
-          các kích thích thần kinh. Tức là dù vật chất không tồn tại nhưng nếu
-          được kích thích thần kinh, ta có thể đánh lừa não bộ về cảm giác. Cơ
-          chế này có thể gặp trong giấc mơ, khi não bộ tổng hợp các ký ức nhỏ lẻ
-          lại, tạo 1 cảm giác rất thật. Ảo thuật là kỹ thuật sử dụng sóng não,
-          tác động lên não bộ của đối phương, gây ra ảo giác, cả 2 tiến vào thế
-          giới tinh thần. Trong thế giới này những người sử dụng ảo thuật có thể
-          tạo ra vật chất, năng lượng, thay đổi thực tại, tấn công đối thủ,...
-          tùy vào trình độ thao túng (giống như lucid dream, ta có thể tự do
-          hành động nhưng không hẳn kiểm soát được mọi thứ). Chỉ những người
-          mang một đột biến trong não khiến bộ não có thể phát ra sóng điện từ
-          mạnh mới sử dụng được ảo thuật chủ động
-        </p>
       </section>
     </div>
   );
