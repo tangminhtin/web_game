@@ -8,7 +8,7 @@ const About = () => {
         <h1 className={styles.title}>Giới thiệu</h1>
       </div>
       <section className="mt-5">
-        <h4>Lời nói đầu</h4>
+        <h4>Tổng quan</h4>
         <p>
           Cách đây 10 năm, khi còn là một cậu bé trung học, tôi được sắm sửa
           chiếc điện thoại đầu tiên để liên lạc, một chiếc Nokia chạy Java mà
