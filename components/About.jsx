@@ -12,10 +12,13 @@ const About = () => {
         <p>
           Lillusion Theory hay Lillusion là một tựa game 2D indie được phát triển bởi đội ngũ The Night Owls
           tới từ Việt Nam.
-          Gameplay của Lillusion được lấy cảm hứng từ tựa game nổi tiếng Hollow Knight với lối chơi
-          khám phá bản đồ, đánh quái tích lũy kinh nghiệm, vượt qua các bosses và tận hưởng cốt truyện.
-          Cơ chế chiến đấu của Lillusion có hơi hướng của các dòng game Soul-likes xoay quanh chém và né.
         </p>
+        <p>
+          Gameplay của Lillusion được lấy cảm hứng từ tựa game nổi tiếng Hollow Knight với lối chơi
+                    khám phá bản đồ, đánh quái tích lũy kinh nghiệm, vượt qua các bosses và tận hưởng cốt truyện.
+                    Cơ chế chiến đấu của Lillusion có hơi hướng của các dòng game Soul-likes xoay quanh chém và né.
+        </p>
+        <p> Lillusion phát hành trên Steam, hỗ trợ các dòng máy Window, Linux và MacOS, điều khiển bằng bàn phím.
       </section>
     </div>
   );
