@@ -18,7 +18,7 @@ const About = () => {
                     khám phá bản đồ, đánh quái tích lũy kinh nghiệm, vượt qua các bosses và tận hưởng cốt truyện.
                     Cơ chế chiến đấu của Lillusion có hơi hướng của các dòng game Soul-likes xoay quanh chém và né.
         </p>
-        <p> Lillusion phát hành trên Steam, hỗ trợ các dòng máy Window, Linux và MacOS, điều khiển bằng bàn phím.
+        <p> Lillusion phát hành trên Steam, hỗ trợ các dòng máy Window, Linux và MacOS, điều khiển bằng bàn phím. </p>
       </section>
     </div>
   );
